@@ -1,7 +1,7 @@
-# [S] 🎓  
+# [Surajit Mukherjee] 🎓  
 PhD Applicant | Computer Vision · Machine Learning · Scene Text Recognition  
 📍 West Bengal, India  
-✉️ youremail@domain.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 🔍 [Google Scholar](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
+✉️ surajitmjee07@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 🔍 [Google Scholar](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
 
 ---
 
@@ -52,6 +52,6 @@ If you’re recruiting or know of opportunities, I’d love to connect!
 ---
 
 ## Contact  
-📧 Email: youremail@domain.edu  
+📧 Email: surajitmjee07@gamil.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
 🌐 Website: [your-username.github.io](https://your-username.github.io)  
