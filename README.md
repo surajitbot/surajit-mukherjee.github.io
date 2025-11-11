@@ -6,52 +6,74 @@ PhD Applicant | Computer Vision · Machine Learning · Scene Text Recognition
 ---
 
 ## About Me  
-I am an MSc in Computer Science with a strong background in computer vision (internships under Prof. P. Shivakumara & Prof. Umapada Pal). My current research interest lies in **multimodal text recognition systems**, specifically leveraging scene background information to enhance text understanding (e.g., text + background correlation). I am actively seeking a PhD position for Fall/Winter 2025-26 to explore challenges in **text-to-scene generation**, **multimodal video prediction**, and **document / scene image analysis**.
+I am an MSc in Computer Science with research experience at the **CVPR Unit and IDEAS-TIH, ISI Kolkata**, working under **Prof. Umapada Pal** and **Prof. S. Chanda**. My work spans **computer vision, multimodal learning, and biomedical signal estimation**, with publications at **SCIA 2025** and **ICDAR 2025**. I am passionate about developing models that bridge the gap between **AI research and real-world deployment**, focusing on **text-to-scene generation** and **multimodal video prediction**.  
 
 ---
 
 ## Research Interests  
 - Scene Text Recognition & Understanding  
-- Multimodal Deep Learning (text + image / context)  
-- Generative Models & Text-to-Image / Text-to-Scene  
+- Multimodal Learning (Text + Background / Context)  
+- Generative Models & Text-to-Scene/Image Synthesis  
+- Biomedical Signal Analysis (SpO₂, rPPG)  
 - Multimodal Video Prediction  
-- Bengali Text Recognition & Indigenous Language AI (if applicable)  
+- Action Recognition  
 
 ---
 
-## Publications & Select Works  
-- (Fill in your key publications: Title. Venue. Year.)  
-- Example: *“Background-aware Multimodal Learning for Scene Text Recognition”*, ICDAR 2025 (submitted/accepted)  
-- Full list: [Google Scholar Profile](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
+## Publications  
+- **Ahmad, S., Mukherjee, S., Chanda, S., Palaiahnakote, S., Pal, U., & Pedersen, M. (2025)**. *PHASE: Physiological Dynamics-Based Attention for SpO₂ Estimation.* In **Image Analysis**, pp. 30–44. Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-95911-0_3)  
+- **Mukherjee, S., Palaiahnakote, S., Chanda, S., Pal, U., & Lu, T. (2025)**. *Text Prompt to Image Generation for Classification of Similar and Non-Similar Scene Images to Improve Text Spotting Performance.* In **Proceedings of ICDAR 2025**, pp. 1–17. (Link to be added when available)  
+
+---
+
+## Work Experience  
+**Project Linked Junior Researcher — IDEAS-TIH, ISI Kolkata (Jan 2025 – Present)**  
+- Developed an **NVIDIA Jetson Nano–based system** for real-time SpO₂ and heart rate estimation.  
+- Published a peer-reviewed paper at **SCIA 2025** on physiological attention modeling.  
+
+**Help Support — ICPR 2024 (Oct 2024 – Dec 2024)**  
+- Developed an **Android application** for the ICPR 2024 conference to manage poster sessions and logistics.  
+
+**Intern — CVPR Unit, ISI Kolkata (Sep 2023 – Oct 2024)**  
+- Designed **GUI-based tools** for scene text editing and SpO₂ model visualization.  
+- Authored a **literature survey on sketch recognition and generation** (under review).  
 
 ---
 
 ## Projects  
-- **CLIP4STR-inspired model** – Developed a classification pipeline where text and background features are fused for improved recognition (see code/demo).  
-- **SpO₂ Detection Website** – Django-based application integrating heartbeat detection and rPPG signal processing from video.  
-- **Text-to-Scene Generation** – Ongoing work: generating realistic scene images from extracted text cues, computing FID scores for evaluation.  
-- (Add links to each project repository/dashboard.)  
+- **Leaf Disease Detection App** – Android application using deep learning and image processing to detect and classify plant diseases for early agricultural diagnosis.  
+- **BRSNCN** – A college social networking platform enabling students to share notes, view notices, and communicate efficiently.  
+- **SpO₂ Estimation System** – Embedded Jetson Nano system integrating rPPG signal analysis for non-contact physiological monitoring.  
+- **Human Image to Temperature Estimation (Ongoing)** – From the RGB images translating .
+ 
 
 ---
 
-## Teaching & Mentoring (optional)  
-- Teaching Assistant: Deep Learning and Computer Vision, [Your University], 2024  
-- Mentored 2 undergraduates on scene text segmentation and recognition tasks.  
+## Education  
+🎓 **MSc in Computer Science**, West Bengal State University (2021–2023)  
+🎓 **BSc in Computer Science**, West Bengal State University (2018–2021)  
 
 ---
 
-## Looking for  
-I am seeking a **fully funded PhD position** (Fall/Winter 2025-26 intake) in / with:  
-- Supervisor(s) working on multimodal vision, text + image, generative AI  
-- Strong computer vision lab, interest in indigenous language AI (e.g., Bengali) a plus  
-- Opportunity to publish in top venues (CVPR, ICCV, ECCV, ICDAR)  
-- Collaboration with both academia & industry encouraged  
+## Skills  
+**Programming Languages:** Python, Kotlin, Java, C++, SQL  
+**Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, scikit-learn, NumPy, Pandas, Matplotlib  
+**Machine Learning & Vision:** Deep Learning, OCR, GANs, Multimodal Learning, Signal Processing  
+**Development Tools:** Android Studio, Git, Firebase, Google Cloud Platform, VS Code, Jupyter Notebook  
+**Research & Writing:** LaTeX, Data Analysis, Experiment Design, Scientific Writing  
+**Soft Skills:** Problem Solving, Collaboration, Communication  
 
-If you’re recruiting or know of opportunities, I’d love to connect!  
+---
+
+## Looking For  
+Seeking a **fully funded PhD position (Fall/Winter 2025–26)** in **Computer Vision or Machine Learning**, focusing on:  
+- Collaboration with leading AI research groups (academic or industrial)  
+- Opportunities to publish in top-tier venues (CVPR, ICCV, ECCV)  
 
 ---
 
 ## Contact  
-📧 Email: surajitmjee07@gamil.com  
+📧 Email: **surajitmjee07@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🌐 Website: [your-username.github.io](https://your-username.github.io)  
+🔍 Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
+🌐 Website: [your-username.github.io](https://your-username.github.io)
