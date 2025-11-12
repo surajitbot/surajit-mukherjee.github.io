@@ -27,7 +27,8 @@ I am an MSc in Computer Science with research experience at the CVPR Unit and ID
 ## Work Experience  
 **Project Linked Junior Researcher — IDEAS-TIH, ISI Kolkata (Jan 2025 – Present)**  
 - Developed an NVIDIA Jetson Nano–based system for real-time SpO₂ and heart rate estimation.  
-- Published a peer-reviewed paper at **SCIA 2025** on physiological attention modeling.  
+- Published a peer-reviewed paper at SCIA 2025 on physiological attention modeling.
+- Currently working on Action Recognition
 
 **Help Support — ICPR 2024 (Oct 2024 – Dec 2024)**  
 - Developed an Android application for the ICPR 2024 conference to manage poster sessions and logistics.  
