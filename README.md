@@ -6,7 +6,7 @@ PhD Applicant | Computer Vision · Machine Learning
 ---
 
 ## About Me  
-I am an MSc in Computer Science with research experience at the **CVPR Unit and IDEAS-TIH, ISI Kolkata**, working under Prof. Umapada Pal and Prof. S. Chanda. My work spans **computer vision, multimodal learning, and biomedical signal estimation**, with publications at SCIA 2025 and ICDAR 2025. I am passionate about developing models that bridge the gap between AI research and real-world deployment, focusing on text-to-scene generation and multimodal video prediction.  
+I am an MSc in Computer Science with research experience at the CVPR Unit and IDEAS-TIH, ISI Kolkata, working under Prof. Umapada Pal and Prof. S. Chanda. My work spans computer vision, multimodal learning, and biomedical signal estimation, with publications at SCIA 2025 and ICDAR 2025. I am passionate about developing models that bridge the gap between AI research and real-world deployment, focusing on text-to-scene generation and multimodal video prediction.  
 
 ---
 
@@ -26,15 +26,15 @@ I am an MSc in Computer Science with research experience at the **CVPR Unit and 
 
 ## Work Experience  
 **Project Linked Junior Researcher — IDEAS-TIH, ISI Kolkata (Jan 2025 – Present)**  
-- Developed an **NVIDIA Jetson Nano–based system** for real-time SpO₂ and heart rate estimation.  
+- Developed an NVIDIA Jetson Nano–based system for real-time SpO₂ and heart rate estimation.  
 - Published a peer-reviewed paper at **SCIA 2025** on physiological attention modeling.  
 
 **Help Support — ICPR 2024 (Oct 2024 – Dec 2024)**  
-- Developed an **Android application** for the ICPR 2024 conference to manage poster sessions and logistics.  
+- Developed an Android application for the ICPR 2024 conference to manage poster sessions and logistics.  
 
 **Intern — CVPR Unit, ISI Kolkata (Sep 2023 – Oct 2024)**  
-- Designed **GUI-based tools** for scene text editing and SpO₂ model visualization.  
-- Authored a **literature survey on sketch recognition and generation** (under review).  
+- Designed GUI-based tools for scene text editing and SpO₂ model visualization.  
+- Authored a literature survey on sketch recognition and generation (under review).  
 
 ---
 
