@@ -72,6 +72,6 @@ Seeking a **fully funded PhD position (Fall/Winter 2025–26)** in **Computer Vi
 
 ## Contact  
 📧 Email: **surajitmjee07@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/surajit-mukherjee-8abbb4190)  
+🔗 LinkedIn: [linkedin.com/in/Surajit Mukherjee](https://www.linkedin.com/in/surajit-mukherjee-8abbb4190)  
 🔍 Google Scholar: [Google Scholar Profile](https://scholar.google.com/user=lXBqfssAAAAJ&hl=en)  
-🌐 Website: [your-username.github.io](https://your-username.github.io)
+
