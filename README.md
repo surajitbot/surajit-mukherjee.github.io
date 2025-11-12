@@ -1,20 +1,18 @@
 # [Surajit Mukherjee] 🎓  
-PhD Applicant | Computer Vision · Machine Learning · Scene Text Recognition  
+PhD Applicant | Computer Vision · Machine Learning 
 📍 West Bengal, India  
-✉️ surajitmjee07@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 🔍 [Google Scholar](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
+✉️ surajitmjee07@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/surajit-mukherjee-8abbb4190) | 🔍 [Google Scholar](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
 
 ---
 
 ## About Me  
-I am an MSc in Computer Science with research experience at the **CVPR Unit and IDEAS-TIH, ISI Kolkata**, working under **Prof. Umapada Pal** and **Prof. S. Chanda**. My work spans **computer vision, multimodal learning, and biomedical signal estimation**, with publications at **SCIA 2025** and **ICDAR 2025**. I am passionate about developing models that bridge the gap between **AI research and real-world deployment**, focusing on **text-to-scene generation** and **multimodal video prediction**.  
+I am an MSc in Computer Science with research experience at the **CVPR Unit and IDEAS-TIH, ISI Kolkata**, working under Prof. Umapada Pal and Prof. S. Chanda. My work spans **computer vision, multimodal learning, and biomedical signal estimation**, with publications at SCIA 2025 and ICDAR 2025. I am passionate about developing models that bridge the gap between AI research and real-world deployment, focusing on text-to-scene generation and multimodal video prediction.  
 
 ---
 
-## Research Interests  
-- Scene Text Recognition & Understanding  
-- Multimodal Learning (Text + Background / Context)  
+## Research Interests   
 - Generative Models & Text-to-Scene/Image Synthesis  
-- Biomedical Signal Analysis (SpO₂, rPPG)  
+- Biomedical Signal Analysis 
 - Multimodal Video Prediction  
 - Action Recognition  
 
@@ -74,6 +72,6 @@ Seeking a **fully funded PhD position (Fall/Winter 2025–26)** in **Computer Vi
 
 ## Contact  
 📧 Email: **surajitmjee07@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🔍 Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=lXBqfssAAAAJ&hl=en)  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/surajit-mukherjee-8abbb4190)  
+🔍 Google Scholar: [Google Scholar Profile](https://scholar.google.com/user=lXBqfssAAAAJ&hl=en)  
 🌐 Website: [your-username.github.io](https://your-username.github.io)
